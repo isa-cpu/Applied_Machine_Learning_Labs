@@ -10,7 +10,8 @@ Understanding the concept of machine modeling
 
 
 
-👤 *Author1*
+👤 *Author: Isaac Opei*
+👤 *Lecturer: Frederick Aditta*
 
 - GitHub: [@githubhandle](https://github.com/isa-cpu)
 - Twitter: [@twitterhandle](https://twitter.com/isaac_opei)
